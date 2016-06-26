@@ -1,0 +1,137 @@
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Data\KinectDataInput.csv
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ReatimeDashboardApp.exe.config
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ReatimeDashboardApp.exe.manifest
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ReatimeDashboardApp.application
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ReatimeDashboardApp.exe
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ReatimeDashboardApp.pdb
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\EntityFramework.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.Data.Edm.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.Data.OData.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.ServiceBus.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Newtonsoft.Json.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Net.Http.Formatting.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Spatial.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Web.Http.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Web.Http.WebHost.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\EntityFramework.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.Data.Edm.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.Data.OData.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.ServiceBus.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\Newtonsoft.Json.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Net.Http.Formatting.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Spatial.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Web.Http.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\System.Web.Http.WebHost.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\de\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\es\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\fr\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\it\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ja\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ko\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\ru\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\obj\Debug\ReatimeDashboardApp.Migrations.HealthReportMl.resources
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\obj\Debug\ReatimeDashboardApp.csproj.GenerateResource.Cache
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\obj\Debug\ReatimeDashboardApp.exe.manifest
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\obj\Debug\ReatimeDashboardApp.application
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\obj\Debug\ReatimeDashboardApp.exe
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\ConnectCarsEventHubListener\ConnectCarsEventHubListener\obj\Debug\ReatimeDashboardApp.pdb
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Data\KinectDataInput.csv
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ReatimeDashboardApp.exe.config
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ReatimeDashboardApp.exe.manifest
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ReatimeDashboardApp.application
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ReatimeDashboardApp.exe
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ReatimeDashboardApp.pdb
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\EntityFramework.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.Data.Edm.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.Data.OData.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.ServiceBus.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Newtonsoft.Json.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Spatial.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Web.Http.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Web.Http.WebHost.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\EntityFramework.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.Data.Edm.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.Data.OData.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.ServiceBus.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\Newtonsoft.Json.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Spatial.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Web.Http.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\System.Web.Http.WebHost.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\de\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\es\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\fr\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\it\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ja\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ko\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\ru\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.Migrations.HealthReportMl.resources
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.csproj.GenerateResource.Cache
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.exe.manifest
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.application
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.exe
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.pdb
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\ReatimeDashboardApp\obj\Debug\ReatimeDashboardApp.csprojResolveAssemblyReference.cache

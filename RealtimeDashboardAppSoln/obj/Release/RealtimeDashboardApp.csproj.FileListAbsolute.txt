@@ -1,0 +1,165 @@
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.exe
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.Data.Services.Client.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Storage.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Newtonsoft.Json.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Data\KinectDataInput.csv
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.exe.config
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.exe.manifest
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.application
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\EntityFramework.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\EntityFramework.SqlServer.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.Data.Edm.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.Data.OData.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Net.Http.Formatting.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Spatial.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Web.Http.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Web.Http.WebHost.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\EntityFramework.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\EntityFramework.SqlServer.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.Data.Edm.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.Data.OData.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.Data.Services.Client.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Storage.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\Newtonsoft.Json.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Net.Http.Formatting.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Spatial.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Web.Http.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\System.Web.Http.WebHost.xml
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\de\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\es\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\it\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\de\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\es\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\fr\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\it\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ja\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ko\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ru\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\de\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\es\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\fr\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\it\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ja\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ko\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\ru\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hans\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\zh-Hant\System.Spatial.resources.dll
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.Migrations.HealthReportMl.resources
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.csproj.GenerateResource.Cache
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.exe.manifest
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.application
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.exe
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.pdb
+D:\ThirdEyeCss\Sanjay Soni\connectedcardemo\PBIGettingStartedFinal_Ver_05\New folder\ReatimeDashboardApp\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.pdb
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.exe.config
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.exe
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.pdb
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Data\KinectDataInput.csv
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.exe.manifest
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.application
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.exe
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\RealtimeDashboardApp.pdb
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\EntityFramework.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.Data.OData.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Spatial.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Web.Http.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\EntityFramework.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.Data.OData.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Spatial.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Web.Http.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\de\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\es\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\it\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.Migrations.HealthReportMl.resources
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.csproj.GenerateResource.Cache
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.exe.manifest
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.application
+C:\Users\parvezp\Documents\RealtimeDashboardApp\obj\Release\RealtimeDashboardApp.csprojResolveAssemblyReference.cache
+C:\Github-MyWork\CortanaAnaltyicGallery\VehicleTelemetryAnalytic\RealtimeDashboardAppSoln\bin\Release\RealtimeDashboardApp.exe.config
+C:\Github-MyWork\CortanaAnaltyicGallery\VehicleTelemetryAnalytic\RealtimeDashboardAppSoln\obj\Release\RealtimeDashboardApp.exe
+C:\Github-MyWork\CortanaAnaltyicGallery\VehicleTelemetryAnalytic\RealtimeDashboardAppSoln\obj\Release\RealtimeDashboardApp.pdb
+C:\Github-MyWork\CortanaAnaltyicGallery\VehicleTelemetryAnalytic\RealtimeDashboardAppSoln\obj\Release\RealtimeDashboardApp.csprojResolveAssemblyReference.cache
+C:\Github-MyWork\CortanaAnaltyicGallery\VehicleTelemetryAnalytic\RealtimeDashboardAppSoln\obj\Release\RealtimeDashboardApp.Migrations.HealthReportMl.resources
+C:\Github-MyWork\CortanaAnaltyicGallery\VehicleTelemetryAnalytic\RealtimeDashboardAppSoln\obj\Release\RealtimeDashboardApp.csproj.GenerateResource.Cache
